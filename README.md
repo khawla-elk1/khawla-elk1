@@ -33,8 +33,8 @@ Je suis une développeuse passionnée par l'écosystème **Full Stack**, avec un
 
 ### 📫 Me contacter
 
-* [cite_start]🌍 Basée à : **Marrakech, Maroc** 
-* [cite_start]💼 LinkedIn : [linkedin.com/in/khawla-el-khassibi](https://www.linkedin.com/in/khawla-el-khassibi) 
-* [cite_start]📧 Email : [elkhassibikhawla67@gmail.com](mailto:elkhassibikhawla67@gmail.com) 
-* [cite_start]📞 Téléphone : **+212 771166859** 
+* 🌍 Basée à : **Marrakech, Maroc** 
+* 💼 LinkedIn : [linkedin.com/in/khawla-el-khassibi](https://www.linkedin.com/in/khawla-el-khassibi) 
+* 📧 Email : [elkhassibikhawla67@gmail.com](mailto:elkhassibikhawla67@gmail.com) 
+* 📞 Téléphone : **+212 771166859** 
 
