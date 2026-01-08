@@ -31,19 +31,10 @@ Je suis une développeuse passionnée par l'écosystème **Full Stack**, avec un
 
 ---
 
-### 📊 Statistiques GitHub
-
-![Stats de Khawla](https://github-readme-stats.vercel.app/api?username=khawla-elk1&show_icons=true&theme=radical&count_private=true)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=khawla-elk1&layout=compact&theme=radical)
-
----
-
 ### 📫 Me contacter
 
-* [cite_start]🌍 Basée à : **Marrakech, Maroc** [cite: 10]
-* [cite_start]💼 LinkedIn : [linkedin.com/in/khawla-el-khassibi](https://www.linkedin.com/in/khawla-el-khassibi) [cite: 12]
-* [cite_start]📧 Email : [elkhassibikhawla67@gmail.com](mailto:elkhassibikhawla67@gmail.com) [cite: 8]
-* [cite_start]📞 Téléphone : **+212 771166859** [cite: 9]
+* [cite_start]🌍 Basée à : **Marrakech, Maroc** 
+* [cite_start]💼 LinkedIn : [linkedin.com/in/khawla-el-khassibi](https://www.linkedin.com/in/khawla-el-khassibi) 
+* [cite_start]📧 Email : [elkhassibikhawla67@gmail.com](mailto:elkhassibikhawla67@gmail.com) 
+* [cite_start]📞 Téléphone : **+212 771166859** 
 
----
-*✨ "Transformer des idées complexes en solutions logicielles élégantes."*
