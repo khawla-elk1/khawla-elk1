@@ -5,7 +5,7 @@
 ### 🚀 Future Ingénieure en Génie Informatique & Réseaux 
 *🎓 Étudiante en 5ème année à l'École Marocaine des Sciences de l'Ingénieur.*
 
-Je suis une développeuse passionnée par l'écosystème **Full Stack**, avec une expertise particulière en **Spring Boot**, **Flutter** et les architectures **Microservices**. Actuellement à la recherche d'un stage PFE (début février 2026) pour mettre mes compétences au service de projets innovants.
+Je suis une développeuse passionnée par l'écosystème **Full Stack**, avec une expertise particulière en **Spring Boot**, **Flutter**, **PHP**, **React** et les architectures **Microservices**. Actuellement à la recherche d'un stage PFE (début février 2026) pour mettre mes compétences au service de projets innovants.
 
 ---
 
