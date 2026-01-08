@@ -1,6 +1,6 @@
 
 
-# 👋 Salut, moi c'est Khawla EL KHASSIBI !
+# Salut, c'est Khawla EL KHASSIBI ! 👋 
 
 ### 🚀 Future Ingénieure en Génie Informatique & Réseaux (EMSI)
 *🎓 Étudiante en 5ème année à l'École Marocaine des Sciences de l'Ingénieur.*
